@@ -7,6 +7,7 @@ public class TestScript2 {
 		
 		//welcome
 		System.out.println("hello");
-	
+		
+		//Thank you
 	}
 }
