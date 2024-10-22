@@ -8,5 +8,4 @@ public class testscript_vibin_4 {
 		System.out.println("hi ");
 //thank you
 	}
-
 }
