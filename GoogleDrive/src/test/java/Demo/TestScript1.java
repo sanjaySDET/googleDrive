@@ -6,6 +6,8 @@ public class TestScript1 {
 
 		System.out.println("Hi");
 
+		//Thank you
+
 	}
 
 }
