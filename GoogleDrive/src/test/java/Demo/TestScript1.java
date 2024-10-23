@@ -1,8 +1,11 @@
 package Demo;
 
+import org.testng.annotations.Test;
+
 public class TestScript1 {
 
-	public static void main(String[] args) {
+	@Test
+	public void m1() {
 
 		//welcome
 		System.out.println("Hi");
